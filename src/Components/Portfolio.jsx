@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/IMG_9901.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Adult male suited with sunglasses on ";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Einstein's Conundrum: Universe's Manuscript",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "How Einsteins crave for certainty is challenged by probabilistic quantum mechanics",
+    url: "https://perceptionmyriad.blogspot.com/2023/10/einsteins-conundrum-universes-manuscript.html",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Transistors, Quantum Tunneling & Computing (Part I)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+ "How things actually work at the microscopic scale.",
+    url: "https://perceptionmyriad.blogspot.com/2023/03/transistorsandquantumtunneling.html",
   },
   {
-    title: "My Resume Site",
+    title: "My Medium Articles",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  "My blog on Medium.",
+    url: "https://medium.com/@sitaulajan",
   },
 ];
 
